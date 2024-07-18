@@ -13,8 +13,12 @@
     - MDB에서 페이지 템플릿 다운 후 디자인 바꿈
     - 그 후 웹 폴더에 정리 후 플라스트 웹 서버로 템플릿과 연결 
     - 아나콘다 프롬프트에서 디렉터리 변경 후 ip주소 활성화 후 들어감
+
+    ![Main Page](https://github.com/user-attachments/assets/dce1c17f-4b53-404d-9054-df17eef50f31)
     
 
 # 게시판으로 주변 마트나 시장 가격 확인 후 공유하는 공간 제작
 ## PHP로 제작한 게시판에 글 작성해서 공유
         - 현재 회원 정보 수정 부분까지 제작
+        
+        ![Board Page](https://github.com/user-attachments/assets/3147e5b9-1248-4adc-9b9d-85c7d0bbfd85)
