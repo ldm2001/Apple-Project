@@ -14,7 +14,7 @@
     - 웹 폴더(템블릿, 스테이트, 모델) 정리 후 플라스크 웹 서버로 템플릿과 모델 연결 
     - 아나콘다 프롬프트에서 프로젝트 웹 폴더 경로로 디렉터리 변경 후 실행
    
-   ![alt text](<image/Apple p1.png>)
+  [ ![alt text](<image/Apple p1.png>)](https://github.com/ldm2001/Apple-Project/blob/master/Apple%20p1.png)
 
 # 게시판으로 주변 마트나 시장 가격 확인 후 공유하는 공간 제작
 ## PHP로 제작한 게시판에 글 작성해서 공유
